@@ -4,7 +4,7 @@ author: "Edward Hillenaar"
 date: "`r format(Sys.Date())`"
 output: html_document
 email_address: totalegezondheidbv@gmail.com
-github_repo: https://github.com/EdwardHill15/rmarkdown_website_template
+github_repo: https://github.com/EdwardHill15/Holographic_Mind
 bibliography: ["ref.bib"]
 biblio-style: "apalike"
 link-citations: true
@@ -64,10 +64,12 @@ Other references:  [@Chalmers1995a], [@RobertLawrenceKuhn2020]
 <br>
 
 # **Graphs**
-
+<br>
 ![Correlation Matrix of behaviour factors](https://raw.githubusercontent.com/EdwardHill15/Data/main/graphs/cor_matrix_Beh_cons.png)
 <br>
 <br>
-
+![Behaviour Factors in relation to Consciousness Levels](https://raw.githubusercontent.com/EdwardHill15/Data/main/graphs/plot_behaviour_consciousness.png)
+<br>
+<br>
 
 # References
